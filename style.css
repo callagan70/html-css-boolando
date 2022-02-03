@@ -1,0 +1,16 @@
+.sconto{
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
+
+
+
+.red{
+    color: red;
+}
+
+.line-deco{
+    text-decoration: line-through;
+    color: black;
+}
